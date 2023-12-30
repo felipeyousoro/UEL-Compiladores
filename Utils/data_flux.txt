@@ -1,0 +1,54 @@
+*-*-*-*-*-*-*-*-*-* START ITERATION 1 *-*-*-*-*-*-*-*-*-*
+BOTH IN AND OUT ARE EQUAL
+IN[0] =			[]
+OUT[0] =		[]
+
+BOTH IN AND OUT ARE EQUAL
+IN[1] =			[]
+OUT[1] =		[]
+
+IN[2] =			[]
+OUT[2] =		[1]
+
+IN[3] =			[1]
+OUT[3] =		[1, 2, 3]
+
+IN[4] =			[1, 2, 3]
+OUT[4] =		[2, 3]
+
+IN[5] =			[2, 3]
+OUT[5] =		[1, 2, 3]
+
+BOTH IN AND OUT ARE EQUAL
+IN[6] =			[1, 2, 3]
+OUT[6] =		[1, 2, 3]
+
+*-*-*-*-*-*-*-*-*-* END ITERATION 1 *-*-*-*-*-*-*-*-*-*
+
+*-*-*-*-*-*-*-*-*-* START ITERATION 2 *-*-*-*-*-*-*-*-*-*
+BOTH IN AND OUT ARE EQUAL
+IN[0] =			[]
+OUT[0] =		[]
+
+BOTH IN AND OUT ARE EQUAL
+IN[1] =			[]
+OUT[1] =		[]
+
+IN[2] =			[]
+OUT[2] =		[1]
+
+IN[3] =			[1]
+OUT[3] =		[1, 2, 3]
+
+IN[4] =			[1, 2, 3]
+OUT[4] =		[2, 3]
+
+IN[5] =			[2, 3]
+OUT[5] =		[1, 2, 3]
+
+BOTH IN AND OUT ARE EQUAL
+IN[6] =			[1, 2, 3]
+OUT[6] =		[1, 2, 3]
+
+*-*-*-*-*-*-*-*-*-* END ITERATION 2 *-*-*-*-*-*-*-*-*-*
+

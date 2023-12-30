@@ -1,0 +1,78 @@
+*-*-*-*-*-*-*-*-*-* START ITERATION 1 *-*-*-*-*-*-*-*-*-*
+BOTH IN AND OUT ARE EQUAL
+IN[0] =			['a', 'b', 'c', 'd', 'g', 'h']
+OUT[0] =		['a', 'b', 'c', 'd', 'g', 'h']
+
+IN[1] =			['a', 'b', 'c', 'd', 'g', 'h']
+OUT[1] =		['a', 'c', 'd', 'e', 'g', 'h']
+
+IN[2] =			['a', 'c', 'd', 'e', 'g', 'h']
+OUT[2] =		['a', 'd', 'f', 'g', 'h']
+
+IN[3] =			['a', 'f', 'g']
+OUT[3] =		['a', 'f', 'g', 'h']
+
+IN[4] =			['a', 'd', 'g', 'h']
+OUT[4] =		['a', 'f', 'g', 'h']
+
+IN[5] =			['a', 'f', 'g', 'h']
+OUT[5] =		[]
+
+BOTH IN AND OUT ARE EQUAL
+IN[6] =			[]
+OUT[6] =		[]
+
+*-*-*-*-*-*-*-*-*-* END ITERATION 1 *-*-*-*-*-*-*-*-*-*
+
+*-*-*-*-*-*-*-*-*-* START ITERATION 2 *-*-*-*-*-*-*-*-*-*
+BOTH IN AND OUT ARE EQUAL
+IN[0] =			['a', 'b', 'c', 'd', 'g', 'h']
+OUT[0] =		['a', 'b', 'c', 'd', 'g', 'h']
+
+IN[1] =			['a', 'b', 'c', 'd', 'g', 'h']
+OUT[1] =		['a', 'c', 'd', 'e', 'g', 'h']
+
+IN[2] =			['a', 'c', 'd', 'e', 'g', 'h']
+OUT[2] =		['a', 'c', 'd', 'e', 'f', 'g', 'h']
+
+IN[3] =			['a', 'c', 'd', 'e', 'f', 'g']
+OUT[3] =		['a', 'c', 'd', 'e', 'f', 'g', 'h']
+
+IN[4] =			['a', 'c', 'd', 'e', 'g', 'h']
+OUT[4] =		['a', 'c', 'd', 'e', 'f', 'g', 'h']
+
+IN[5] =			['a', 'c', 'd', 'e', 'f', 'g', 'h']
+OUT[5] =		['a', 'c', 'd', 'e', 'g', 'h']
+
+BOTH IN AND OUT ARE EQUAL
+IN[6] =			[]
+OUT[6] =		[]
+
+*-*-*-*-*-*-*-*-*-* END ITERATION 2 *-*-*-*-*-*-*-*-*-*
+
+*-*-*-*-*-*-*-*-*-* START ITERATION 3 *-*-*-*-*-*-*-*-*-*
+BOTH IN AND OUT ARE EQUAL
+IN[0] =			['a', 'b', 'c', 'd', 'g', 'h']
+OUT[0] =		['a', 'b', 'c', 'd', 'g', 'h']
+
+IN[1] =			['a', 'b', 'c', 'd', 'g', 'h']
+OUT[1] =		['a', 'c', 'd', 'e', 'g', 'h']
+
+IN[2] =			['a', 'c', 'd', 'e', 'g', 'h']
+OUT[2] =		['a', 'c', 'd', 'e', 'f', 'g', 'h']
+
+IN[3] =			['a', 'c', 'd', 'e', 'f', 'g']
+OUT[3] =		['a', 'c', 'd', 'e', 'f', 'g', 'h']
+
+IN[4] =			['a', 'c', 'd', 'e', 'g', 'h']
+OUT[4] =		['a', 'c', 'd', 'e', 'f', 'g', 'h']
+
+IN[5] =			['a', 'c', 'd', 'e', 'f', 'g', 'h']
+OUT[5] =		['a', 'c', 'd', 'e', 'g', 'h']
+
+BOTH IN AND OUT ARE EQUAL
+IN[6] =			[]
+OUT[6] =		[]
+
+*-*-*-*-*-*-*-*-*-* END ITERATION 3 *-*-*-*-*-*-*-*-*-*
+
